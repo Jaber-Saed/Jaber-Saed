@@ -5,7 +5,6 @@
 
 Passionate Web Developer 🚀 | Crafting Engaging and Functional Online Experiences | HTML, CSS, JavaScript Enthusiast | Turning Ideas into Code | Constantly Learning and Exploring New Technologies | Open Source Advocate | Let's Build the Web of Tomorrow, Today!
 
-<img src = "https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif" alt="Laptop GIF" width="25%" align="right">
 
 * 🌍  I'm based in Jardan
 * 🖥️  See my portfolio at [https://jaberdev.com/](http://https://jaberdev.com/)
@@ -184,7 +183,7 @@ Passionate Web Developer 🚀 | Crafting Engaging and Functional Online Experien
 </p>
 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
@@ -251,7 +250,7 @@ Passionate Web Developer 🚀 | Crafting Engaging and Functional Online Experien
 </p>
 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Support Me
 
@@ -263,4 +262,4 @@ Passionate Web Developer 🚀 | Crafting Engaging and Functional Online Experien
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
