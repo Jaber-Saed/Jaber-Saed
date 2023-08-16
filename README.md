@@ -192,13 +192,7 @@ Passionate Web Developer 🚀 | Crafting Engaging and Functional Online Experien
 
 # Socials
 <p align="left">
-  <a target="_blank" rel="noreferrer" href="https://www.github.com/Jaber-Saed"
-    ><img
-      height="30"
-      width="40"
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /></a
-  ><a target="_blank" rel="noreferrer" href="https://www.x.com/Jaber_Said_"
-    ><img
+ <img
       height="30"
       width="40"
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /></a
