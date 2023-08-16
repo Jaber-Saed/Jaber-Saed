@@ -1,37 +1,251 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jaber Saed
-==================================================================================================================================
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=50&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1200&height=54&lines=Hey%2C+I'm+Jaber+Welcome+to+my+Profile!" alt="Typing SVG" /></a>
 
 Full-stack .NET Developer Form Jordan
 -------------------------------------
 
 Passionate Web Developer 🚀 | Crafting Engaging and Functional Online Experiences | HTML, CSS, JavaScript Enthusiast | Turning Ideas into Code | Constantly Learning and Exploring New Technologies | Open Source Advocate | Let's Build the Web of Tomorrow, Today!
 
+
+
 * 🌍  I'm based in Jardan
 * 🖥️  See my portfolio at [https://jaberdev.com/](http://https://jaberdev.com/)
 * ✉️  You can contact me at [jaberthic@gmail.com](mailto:jaberthic@gmail.com)
-* 🚀  I'm currently working on [Capella](http://https://www.capellasolutions.com/)
 * 🤝  I'm open to collaborating on Web Products
 
-<a href="https://www.x.com/Jaber_Said_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Jaber_Said_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 ### Skills
 
-
 <p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+  <a
+    href="https://docs.microsoft.com/en-us/dotnet/csharp/"
+    target="_blank"
+    rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg"
+      alt="C#"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
+      alt="Git"
+      width="36"
+      height="36"
+  /></a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+      alt="JavaScript"
+      width="36"
+      height="36"
+  /></a>
+
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
+      alt="TypeScript"
+      width="36"
+      height="36"
+  /></a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+      alt="HTML5"
+      width="36"
+      height="36"
+  /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
+      alt="React"
+      width="36"
+      height="36"
+  /></a>
+
+  <a href="https://angular.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg"
+      alt="Angular"
+      width="36"
+      height="36" /></a
+  ><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+      alt="CSS3"
+      width="36"
+      height="36" /></a
+  ><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
+      alt="TailwindCSS"
+      width="36"
+      height="36" /></a
+  ><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"
+      alt="Sass"
+      width="36"
+      height="36" /></a
+  ><a href="https://redux.js.org/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg"
+      alt="Redux"
+      width="36"
+      height="36" /></a
+  ><a href="https://svelte.dev/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg"
+      alt="Svelte"
+      width="36"
+      height="36" /></a
+  ><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"
+      alt="Vite"
+      width="36"
+      height="36" /></a
+  ><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
+      alt="NodeJS"
+      width="36"
+      height="36" /></a
+  ><a href="https://graphql.org/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg"
+      alt="GraphQL"
+      width="36"
+      height="36" /></a
+  ><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
+      alt="PostgreSQL"
+      width="36"
+      height="36" /></a
+  ><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg"
+      alt="Firebase"
+      width="36"
+      height="36" /></a
+  ><a
+    href="https://dotnet.microsoft.com/en-us/"
+    target="_blank"
+    rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg"
+      alt=".NET"
+      width="36"
+      height="36" /></a
+  ><a href="https://www.docker.com/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
+      alt="Docker"
+      width="36"
+      height="36" /></a
+  ><a href="https://www.linux.org" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg"
+      alt="Linux"
+      width="36"
+      height="36" /></a
+  ><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg"
+      alt="Amazon Web Services"
+      width="36"
+      height="36" /></a
+  ><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg"
+      alt="Ethereum"
+      width="36"
+      height="36" /></a
+  ><a href="https://polygon.technology/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg"
+      alt="Polygon"
+      width="36"
+      height="36" /></a
+  ><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg"
+      alt="Google Cloud"
+      width="36"
+      height="36"
+  /></a>
 </p>
 
 
+
+
 ### Socials
+<p align="left">
+  <a target="_blank" rel="noreferrer" href="https://www.github.com/Jaber-Saed"
+    ><img
+      height="32"
+      width="32"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /></a
+  ><a target="_blank" rel="noreferrer" href="https://www.x.com/Jaber_Said_"
+    ><img
+      height="32"
+      width="32"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /></a
+  ><a target="_blank" rel="noreferrer" href="https://JaberSaed.hashnode.dev"
+    ><img
+      height="32"
+      width="32"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /></a
+  ><a target="_blank" rel="noreferrer" href="http://www.medium.com/@jabrsalm449"
+    ><img
+      height="32"
+      width="32"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /></a
+  ><a target="_blank" rel="noreferrer" href="https://www.dev.to/jabersaed"
+    ><img
+      height="32"
+      width="32"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /></a
+  ><a
+    target="_blank"
+    rel="noreferrer"
+    href="https://www.linkedin.com/in/jaberdev"
+    ><img
+      height="32"
+      width="32"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /></a
+  ><a
+    target="_blank"
+    rel="noreferrer"
+    href="https://codesandbox.io/u/jabrsalm449"
+    ><img
+      height="32"
+      width="32"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" /></a
+  ><a target="_blank" rel="noreferrer" href="https://www.codepen.io/Jaber-saed"
+    ><img
+      height="32"
+      width="32"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /></a
+  ><a
+    target="_blank"
+    rel="noreferrer"
+    href="https://www.stackoverflow.com/users/16387782/jaber-salem"
+    ><img
+      height="32"
+      width="32"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg"
+  /></a>
+</p>
 
-<p align="left"> <a href="https://www.codepen.io/Jaber-saed" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://codesandbox.io/u/jabrsalm449" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /> </picture> </a> <a href="https://www.dev.to/jabersaed" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Jaber-Saed" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://JaberSaed.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jaberdev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@jabrsalm449" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/16387782/jaber-salem" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Jaber_Said_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<a href="https://github.com/Jaber-Saed" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaber-Saed&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
