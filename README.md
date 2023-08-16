@@ -1,11 +1,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=50&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1200&height=54&lines=Hey%2C+I'm+Jaber+Welcome+to+my+Profile!" alt="Typing SVG" /></a>
 
-Full-stack .NET Developer Form Jordan
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">Full-stack .NET Developer Form Jordan
 -------------------------------------
 
 Passionate Web Developer 🚀 | Crafting Engaging and Functional Online Experiences | HTML, CSS, JavaScript Enthusiast | Turning Ideas into Code | Constantly Learning and Exploring New Technologies | Open Source Advocate | Let's Build the Web of Tomorrow, Today!
 
-
+<img src = "https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif" alt="Laptop GIF" width="25%" align="right">
 
 * 🌍  I'm based in Jardan
 * 🖥️  See my portfolio at [https://jaberdev.com/](http://https://jaberdev.com/)
