@@ -256,3 +256,7 @@ Passionate Web Developer 🚀 | Crafting Engaging and Functional Online Experien
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/JaberDev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
