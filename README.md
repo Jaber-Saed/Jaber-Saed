@@ -262,4 +262,14 @@ Passionate Web Developer 🚀 | Crafting Engaging and Functional Online Experien
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
+<br>
+<br>
+<br>
 
+<div align='center'>
+
+# <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+
+</div>
+<br>
+<br>
