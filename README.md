@@ -15,6 +15,7 @@ Passionate Web Developer 🚀 | Crafting Engaging and Functional Online Experien
 
 ### Skills
 
+
 <p align="left">
   <a
     href="https://docs.microsoft.com/en-us/dotnet/csharp/"
@@ -185,7 +186,7 @@ Passionate Web Developer 🚀 | Crafting Engaging and Functional Online Experien
 </p>
 
 
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### Socials
 <p align="left">
@@ -246,6 +247,7 @@ Passionate Web Developer 🚀 | Crafting Engaging and Functional Online Experien
   /></a>
 </p>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### Support Me
 
