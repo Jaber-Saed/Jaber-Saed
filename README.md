@@ -8,8 +8,8 @@ Passionate Web Developer 🚀 | Crafting Engaging and Functional Online Experien
 
 
 * 🌍  I'm based in Jardan
-* 🖥️  See my portfolio at [https://jaberdev.com/](http://https://jaberdev.com/)
-* ✉️  You can contact me at [jaberthic@gmail.com](mailto:jaberthic@gmail.com)
+* 🖥️  See my portfolio at [jaberdev.com](https://jaberdev.com/)]
+* ✉️  You can contact me at [jaberthic@gmail.com(mailto:jaberthic@gmail.com)
 * 🤝  I'm open to collaborating on Web Products
 
 
