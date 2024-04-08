@@ -247,7 +247,7 @@ Passionate Web Developer 🚀 | Crafting Engaging and Functional Online Experien
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Support Me
+<!-- ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
 
@@ -258,7 +258,7 @@ Passionate Web Developer 🚀 | Crafting Engaging and Functional Online Experien
 
 <br>
 <br>
-<br>
+<br> -->
 
 <div align='center'>
 
