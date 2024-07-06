@@ -193,11 +193,7 @@ Passionate Web Developer 🚀 | Crafting Engaging and Functional Online Experien
 
 # Socials
 <p align="left">
- <img
-      height="30"
-      width="40"
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /></a
-  ><a target="_blank" rel="noreferrer" href="https://JaberSaed.hashnode.dev"
+<a target="_blank" rel="noreferrer" href="https://hashnode.com/@JaberSaed"
     ><img
       height="30"
       width="40"
@@ -220,6 +216,11 @@ Passionate Web Developer 🚀 | Crafting Engaging and Functional Online Experien
       height="30"
       width="40"
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /></a
+  ><a target="_blank" rel="noreferrer" href="https://x.com/Jaber_Said_"
+ ><img
+      height="30"
+      width="40"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /></a
   ><a
     target="_blank"
     rel="noreferrer"
@@ -228,7 +229,7 @@ Passionate Web Developer 🚀 | Crafting Engaging and Functional Online Experien
       height="30"
       width="40"
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" /></a
-  ><a target="_blank" rel="noreferrer" href="https://www.codepen.io/Jaber-saed"
+  ><a target="_blank" rel="noreferrer" href="https://codepen.io/Jaber-saed"
     ><img
       height="30"
       width="40"
