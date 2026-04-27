@@ -60,6 +60,19 @@ Passionate Web Developer | Crafting Engaging and Functional Online Experiences |
 
 ### <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
 
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/awesome-stats-card">
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Jaber-Saed?cardType=level&theme=github-dark&fontFamily=42dot%20Sans&preferLogin=false" alt="My Awesome Stats"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://github-stats-card-generator.vercel.app/api/svg?username=Jaber-Saed&type=languages&theme=github&chart=pie" alt="Jaber-Saed's Language stats"/>
+    </td>
+  </tr>
+</table>
+
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 
 </div>
