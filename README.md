@@ -72,6 +72,7 @@ Passionate Web Developer | Crafting Engaging and Functional Online Experiences |
 <a href="https://polygon.technology/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="40"/></a>
 <!-- Tools -->
 <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40"/></a>
+<a href="https://cursor.sh/" target="_blank"><img src="https://avatars.githubusercontent.com/u/126759922?s=200&v=4" width="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="40"/></a>
 </p>
 
